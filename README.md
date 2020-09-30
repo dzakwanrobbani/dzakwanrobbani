@@ -40,7 +40,7 @@ Currently working in *Software Engineering Division* as a ***Backend Developer**
 ### 🚀 How to reach me:
 - Web: [dzakwan.id](https://dzakwan.id)
 - Email: [contact@dzakwan.id](mailto:contact@dzakwan.id)
-- LinkedIn: [dzakwan-robbani](https://www.linkedin.com/in/dzakwan-robbani/)
+- LinkedIn: [dzakwan-robbani](https://www.linkedin.com/in/dzakwan-robbani-6647ba179/)
 - Instagram: [@dzakoner](https://instagram.com/dzakoner)
 - Twitter: [@dzakoner](https://twitter.com/dzakoner)
 - Telegram: [@dzakoner](https://t.me/dzakoner)
