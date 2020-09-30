@@ -28,6 +28,15 @@ Currently working in *Software Engineering Division* as a ***Backend Developer**
 - Writing
 - Self Improvement
 
+</details>
+
+<details>
+<summary>Click to See My Previous Project</summary>
+
+> To be added
+
+</details>
+
 ### 🚀 How to reach me:
 - Web: [dzakwan.id](https://dzakwan.id)
 - Email: [contact@dzakwan.id](mailto:contact@dzakwan.id)
