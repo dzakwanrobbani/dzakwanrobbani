@@ -1,8 +1,9 @@
 # Muhammad Dzakwan Robbani
 <div align="center">
-[![Dzakwan GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwanrobbani)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <br>
+[![Dzakwan GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwanrobbani)](https://github.com/dzakwanrobbani/github-readme-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/dzakwanrobbani?label=Follower&style=social)](https://github.com/dzakwanrobbani?tab=followers)
 
