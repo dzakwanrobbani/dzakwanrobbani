@@ -1,9 +1,9 @@
 # Muhammad Dzakwan Robbani
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzakwanrobbani&show_icons=true&theme=gruvbox" alt="Dzakwan Github Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=dzakwanrobbani&show_icons=true&theme=gruvbox" alt="Dzakwan Github Stats"> -->
 </div>
 <br>
-
+[![Dzakwan GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwanrobbani)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub followers](https://img.shields.io/github/followers/dzakwanrobbani?label=Follower&style=social)](https://github.com/dzakwanrobbani?tab=followers)
 
 ## 💼 Career
