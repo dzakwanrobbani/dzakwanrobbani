@@ -3,9 +3,10 @@
 
 </div>
 <br>
-[![Dzakwan GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwanrobbani)](https://github.com/dzakwanrobbani/github-readme-stats)
-
-[![GitHub followers](https://img.shields.io/github/followers/dzakwanrobbani?label=Follower&style=social)](https://github.com/dzakwanrobbani?tab=followers)
+## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/dipakkr/github-readme-stats"><img alt="Dzakwan robbani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dzakwanrobbani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 ## 💼 Career
 Currently working in *Software Engineering Division* as a ***Backend Developer*** at [Pramadya Teknologi Indonesia](https://pramadya.co.id). Helping Pramadya to build application services for *ERP (Enterprise Resource Planning) * with technology from [Odoo](https://odoo.com).
