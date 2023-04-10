@@ -27,7 +27,7 @@
 
 
 ## 💼 Career
-Currently working in *Software Engineering Division* as a ***Backend Developer*** at [Pramadya Teknologi Indonesia](https://pramadya.co.id). Helping Pramadya to build application services for *ERP (Enterprise Resource Planning) * with technology from [Odoo](https://odoo.com).
+Currently working in *Software Engineering Division* as a ***Backend Developer*** at [Tunas Operasi Prima](https://tunasoperasi.co.id). Helping Pramadya to build application services for *ERP (Enterprise Resource Planning) * with technology from [Odoo](https://odoo.com).
 
 ## 💻 Experiences
 - Odoo ERP
